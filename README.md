@@ -92,6 +92,7 @@
      * [Articles | Leo Deng](http://myst729.github.io/articles/)
      * [Tutorialzine](http://tutorialzine.com/) - Web Development Tutorials & Resources
      * [Collections ♥ Scotch](https://scotch.io/courses)
+     * [张鑫旭](http://www.zhangxinxu.com/)
   * Android
      * [AndroidDevTools](http://www.androiddevtools.cn/)
      * [代码家](http://blog.daimajia.com/)
